@@ -1,0 +1,35 @@
+body {
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+h1 {
+	color: white;
+	font-size: 48px;
+	font-weight: bold;
+	font-family: Broadway;
+	color: #ADFFD6;
+}
+
+#slogan {
+	font-style: bold;
+	font-size: 28px;
+	font-style: italic;
+}
+
+ul {
+	display: inline-block;
+	text-align: left;
+}
+
+a {
+	text-decoration: none;
+	color: #99FFCC;
+	font-weight: bold;
+
+}
+
+a:hover {
+	color: #ccc;
+}
