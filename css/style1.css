@@ -2,7 +2,6 @@ body {
 	background-color: black;
 	text-align: center;
 	color: white;
-	font-style: Arial, sans-serif;
 }
 
 h1 {
@@ -10,7 +9,6 @@ h1 {
 	color: white;
 	font-size: 48px;
 	font-weight: bold;
-	text-transform: uppercase;
 	font-style: Aharoni; sans-serif;
 }
 
