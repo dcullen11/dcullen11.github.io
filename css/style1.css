@@ -1,6 +1,21 @@
 body {
-	background-color: black;
+	text-align: center;
+	background: url("http://th02.deviantart.net/fs71/PRE/i/2012/179/a/7/old_typewriter_by_israfelx-d558xvx.jpg");
+	background-size: cover;
+	color: white;
+	font-style: Arial, sans-serif;
 }
-h1, p1 {
-	color: white
+
+h1 {
+	background-color: #FF0000;
+	color: white;
+	font-size: 48px;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-style: Narkism; sans-serif;
+}
+
+#slogan {
+	font-style: italic;
+	font-size: 24px;
 }
