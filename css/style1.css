@@ -2,25 +2,25 @@ body {
 	background-color: black;
 	text-align: center;
 	color: white;
+	font-family: 'Lato', sans-serif;
 }
 
 h1 {
 	color: white;
-	font-size: 48px;
+	font-size: 58px;
 	font-weight: bold;
-	font-family: Broadway;
-	color: #ADFFD6;
+	font-family: 'Kalam', cursive;
 }
 
 #slogan {
 	font-style: bold;
 	font-size: 28px;
-	font-style: italic;
 }
 
 ul {
 	display: inline-block;
 	text-align: left;
+	font-size: 16px;
 }
 
 a {
